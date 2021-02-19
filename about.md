@@ -33,6 +33,17 @@ I write blogs, articles, and tutorials related to Test Automation for TestProjec
 	<li>Business Analysis: Google Analytics, Excel, Visio, BigQuery, In-Vision</li>
 </ul>
 
+<h2>Published Articles:</h2>
+
+<ul>
+	<li><a href="https://blog.testproject.io/2020/06/17/selenium-javascript-automation-testing-tutorial-for-beginners/">Selenium JavaScript Automation Testing Tutorial For Beginners</a></li>
+	<li><a href="https://blog.testproject.io/2020/02/20/selenium-vs-puppeteer-when-to-choose-what/">Selenium vs. Puppeteer – When to Choose What?</a></li>
+	<li><a href="https://blog.testproject.io/2020/01/14/puppeteer-web-automation-using-headless-chrome-nodejs-api/">Puppeteer: Web Automation using Headless Chrome Node.js API</a></li>
+	<li><a href="https://www.linkedin.com/pulse/jenkins-docker-beginners-guide-understand-cicd-mujtaba-mehdi/">Jenkins + Docker: A beginner's guide to Docker and Jenkins to understand CI/CD</a></li>
+	<li><a href="https://medium.com/faun/github-action-for-apimatic-transformer-1d22b5270ed9">GitHub Action for APIMATIC Transformer</a></li>
+	<li><a href="https://reflectoring.io/git-rebase-merge/">Git Rebase vs. Git Merge Explained</a></li>
+</ul>
+
 <h2>Projects</h2>
 
 <ul>
