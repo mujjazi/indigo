@@ -5,17 +5,9 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>
-My career focus is to work with methodologies and processes to design and develop information systems in an enterprise context. To envision and architect software that is scalable, resilient, modular, and maintainable is a complex endeavor, especially with the dependencies between legacy and modern systems within a company and with external systems. I love to apply my Software engineering knowledge and experience to plan, develop, and deploy software artifacts and solutions for various data integration challenges and implementing my own domain-specific language for the automation of repetitive tasks.
-</p>
-<p>
-I am an ISTQB® Certified Software Tester having diverse experience working in Software development and the Internet industry as a Software Quality assurance engineer with complete ownership of the STLC from planning to deployment, I am well versed with Test planning, Test Design, Test Execution plus Automation and then reporting the test results to the stakeholders.
-</p>
-<p>
-I have experience developing Web Automation frameworks from scratch using Selenium, cypress, and puppeteer with Java, Python, C#, and node.js. (Programming Languages are specific to the tools as Cypress is currently only with JavaScript), Well versed in creating Automation Frameworks for Mobile Apps using Appium Selenium, Java, and TestNG.
-I write blogs, articles, and tutorials related to Test Automation for TestProject, APIs for APIMatic, and technology-related content for various publications.
-</p>
+I want to contribute to a world where we value skills and relationships over careers and money, where we question and answer, listen and understand and where we're passionate about building and creating things in a self-driven and self-directed way.
+</p> 
 
-<p>
 
 <h2>Skills, Methodologies and Tools</h2>
 
